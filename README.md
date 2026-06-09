@@ -25,8 +25,7 @@ Mi foco es claro: decisiones tecnicas que escalen, se operen bien y generen impa
 - Perfil: [sessionize.com/sertxito](https://sessionize.com/sertxito/)
 - Temas: Azure Data & AI, Agentes, MCP, arquitectura de software, IoT
 
-## Contacto
+## Sigueme para mas contenido
 - LinkedIn: [linkedin.com/in/shierroc](https://www.linkedin.com/in/shierroc/)
-- Sessionize: [sessionize.com/sertxito](https://sessionize.com/sertxito/)
 - X: [x.com/Sertxito](https://twitter.com/Sertxito)
 - Instagram: [instagram.com/sertxito](https://www.instagram.com/sertxito/)
