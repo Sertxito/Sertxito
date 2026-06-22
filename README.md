@@ -23,6 +23,7 @@ Diseño arquitectura de soluciones complejas, mentorizo perfiles jóvenes, impar
 - 🎤 Sesiones técnicas y Power Skill en eventos.
 - 📺 YouTube [@TechRidersMedia](https://www.youtube.com/@TechRidersMedia)
 - 🎙️ Podcast TechRiders
+- 💻 GitHub [TechRiders-Community](https://github.com/TechRiders-Community)
 
 ---
 
