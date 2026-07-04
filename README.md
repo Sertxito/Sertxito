@@ -27,13 +27,25 @@ Diseño arquitectura de soluciones complejas, mentorizo perfiles jóvenes, impar
 
 ---
 
-## 🔧 Repos
+## 🔧 Plataforma: MCP Efficiency Engine
 
-- **[RAG-Azure-Builder](https://github.com/Sertxito/RAG-Azure-Builder)** — RAG que no te arruina. Decisiones reales de arquitectura.
-- **[azure-iot-edge](https://github.com/Sertxito/azure-iot-edge)** — Telemetría en tiempo real. IoT que funciona.
-- **[boost](https://github.com/Sertxito/boost)** — GitHub Copilot Agents. Productividad de verdad.
-- **[boost-dba](https://github.com/Sertxito/boost-dba)** — Agentes para auditoría y modernización de bases de datos.
-- **[spec-kit-extension-rag-azure-builder](https://github.com/Sertxito/spec-kit-extension-rag-azure-builder)** — Spec Kit para RAG.
+**[mcp-efficiency-engine](https://github.com/Sertxito/mcp-efficiency-engine)** — Plataforma central de automatización de decisiones técnicas basada en MCP (Model Context Protocol). Spec-driven, routing determinista, observabilidad end-to-end. Todo lo que necesitas para escalar decisiones en equipos grandes.
+
+### Boosts Especializados
+
+Cada boost es un agente experto modular que corre dentro de MCP Efficiency Engine. Enfoque: máxima reusabilidad, mínimo acoplamiento.
+
+- **[boost_RAG-Azure](https://github.com/Sertxito/boost_RAG-Azure)** — RAG production-ready. Decisiones arquitectónicas: vector search, chunking, Azure Cognitive Search. Lo que necesitas para no quemar dinero en RAG.
+- **[boost_backend](https://github.com/Sertxito/boost_backend)** — Patterns de backend moderno. APIs escalables, decisiones de storage, caching. Pensado para equipos que crecen.
+- **[boost_azure-iot-edge](https://github.com/Sertxito/boost_azure-iot-edge)** — Telemetría edge-to-cloud. IoT real con decisiones de batching, sync, y disaster recovery.
+- **[boost_sertxIA](https://github.com/Sertxito/boost_sertxIA)** — Agentes de IA especializados. LLM orchestration, chain reasoning, evaluación.
+- **[boost_frontend](https://github.com/Sertxito/boost_frontend)** — UX patterns con decisiones técnicas. Accessibility, performance, state management que importa.
+- **[boost_architect-forensics-expert](https://github.com/Sertxito/boost_architect-forensics-expert)** — Auditoría de arquitecturas. Detecta debt, antipatterns, riesgos escalabilidad.
+- **[boost_design-UX-with-Intent](https://github.com/Sertxito/boost_design-UX-with-Intent)** — Design system operacional. Decisiones de componentes, tokens, accesibilidad integrada.
+
+### Recursos Adicionales
+
+- **[spec-kit-extension-rag-azure-builder](https://github.com/Sertxito/spec-kit-extension-rag-azure-builder)** — Spec Kit para RAG. Blueprint reutilizable para proyectos nuevos.
 
 ---
 
