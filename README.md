@@ -39,6 +39,8 @@ mcpee init --project <ruta>
 
 **Cómo funciona el arnés**
 
+Todo queda en tu proyecto y nunca sobrescribe archivos tuyos. Nació gracias a los boosts; cuando me junté con tantos, me pregunté: “¿Pero esto quién lo gobierna?
+
 | Capa | Qué hace |
 |---|---|
 | Contexto | Indexa código y documentos en local, construye grafos y envía a Copilot solo extractos citados. |
@@ -52,8 +54,6 @@ mcpee init --project <ruta>
 
 - **Brownfield** (ya hay código): agentes y guías para tu stack detectado, propuestas de especificación extraídas de tu código y tests, y workflows de validación construidos con tus checks existentes.
 - **Greenfield** (carpeta vacía): equipo generalista (orquestador, producto, arquitectura, QA, seguridad, IA y documentación); las especificaciones nacen de los requisitos que escribas, y al reejecutar `init` con código detecta el stack y genera la validación.
-
-Todo queda en tu proyecto y nunca sobrescribe archivos tuyos. Es el motor sobre el que nacieron los boosts, aunque cada boost funciona por su cuenta.
 
 ---
 ## 🚀 Boosts: agentes, skills e instrucciones listos para instalar
