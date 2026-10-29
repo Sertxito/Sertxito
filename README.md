@@ -1,9 +1,16 @@
 # Sergio Hierro | Sertxito
 
+🌐 [sertxito.es](https://www.sertxito.es)
+
 Diseño soluciones que operan en producción. Mentorizo mientras entrego. Hablo de decisiones técnicas que funcionan.
 
 ---
 
+## ⭐ Proyecto estrella: MCP Efficiency Engine
+
+**[mcp-efficiency-engine](https://github.com/Sertxito/mcp-efficiency-engine)** — Plataforma de automatización de decisiones técnicas basada en MCP. Los boosts no dependen de ella.
+
+---
 ## 💼 Avanade
 
 **Consultant · Full-Stack Developer | People Lead Ambassador | Early Career Lead | Trainer Counselor**
@@ -55,7 +62,6 @@ npx boost-backend      # o cualquier otro boost de la tabla
 
 - **[netcoreconf2026](https://github.com/Sertxito/netcoreconf2026)** — Demo de *Tu API ya no la van a consumir personas*: la misma API consumida por REST, por Copilot en VS Code y por herramientas MCP, con Aspire mostrando las peticiones reales (.NET 10).
 
-- **[mcp-efficiency-engine](https://github.com/Sertxito/mcp-efficiency-engine)** — Plataforma de automatización de decisiones técnicas basada en MCP. Los boosts no dependen de ella.
 - **[spec-kit-extension-rag-azure-builder](https://github.com/Sertxito/spec-kit-extension-rag-azure-builder)** — Spec Kit reutilizable para arrancar proyectos RAG.
 
 ---
@@ -69,13 +75,15 @@ Hablo de lo que he visto fallar y funcionar. Arquitecturas que escalaron, decisi
 
 ## 📚 Donde Estoy
 
+- 🌐 **Web:** [sertxito.es](https://www.sertxito.es)
 - **LinkedIn:** [linkedin.com/in/shierroc](https://www.linkedin.com/in/shierroc/)
-- **X:** [@Sertxito](https://x.com/Sertxito) — reactivando.
+- **GitHub:** [@Sertxito](https://github.com/Sertxito)
+- **X:** [@Sertxito](https://x.com/Sertxito)
 - **Instagram:** [@sertxito](https://www.instagram.com/sertxito/)
-- **YouTube:** Canal en creación.
+- **TikTok:** [@sertxito](https://www.tiktok.com/@sertxito)
+- **YouTube:** [@sertxito](https://www.youtube.com/@sertxito) · [@TechRidersMedia](https://www.youtube.com/@TechRidersMedia)
 
 ---
-
 De estas bases han salido cosas a producción. Seguro que se puede hacer mejor. También seguro que se puede hacer peor.
 
 **#NosPaganPorPensar**
