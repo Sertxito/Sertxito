@@ -2,12 +2,12 @@
 
 **Tecnología con propósito. Personas en el centro.**
 
-Consultor Full Stack en Avanade (Madrid) y Staff Lead de [Tech Riders](https://www.techriders.es/). Más de 10 años entre código, arquitectura y nube, sobre todo con .NET y Azure. Diseño soluciones que operan en producción, mentorizo mientras entrego y hablo de decisiones técnicas que funcionan: menos perseguir lo último, más entender el problema.
+Más de 10 años entre código, arquitectura y nube, sobre todo con .NET y Azure. Diseño soluciones que operan en producción, mentorizo mientras entrego y hablo de decisiones técnicas que funcionan: menos perseguir lo último, más entender el problema.
 
 ---
 ## 💼 Avanade
 
-**Consultant · Full-Stack Developer | People Lead Ambassador | Early Career Lead | Trainer Counselor**
+**Consultant Full-Stack | People Lead Ambassador | Early Career Lead | Trainer Counselor**
 
 Diseño arquitectura de soluciones complejas, mentorizo perfiles jóvenes, imparto sesiones de aprendizaje técnico y ayudo a equipos a tomar decisiones que escalen.
 
