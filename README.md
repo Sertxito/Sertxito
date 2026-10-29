@@ -1,14 +1,8 @@
-# Sergio Hierro | Sertxito
+# Sergio Hierro | [Sertxito](https://www.sertxito.es)
 
-🌐 [sertxito.es](https://www.sertxito.es)
+**Tecnología con propósito. Personas en el centro.**
 
-Diseño soluciones que operan en producción. Mentorizo mientras entrego. Hablo de decisiones técnicas que funcionan.
-
----
-
-## ⭐ Proyecto estrella: MCP Efficiency Engine
-
-**[mcp-efficiency-engine](https://github.com/Sertxito/mcp-efficiency-engine)** — Plataforma de automatización de decisiones técnicas basada en MCP. Los boosts no dependen de ella.
+Consultor Full Stack en Avanade (Madrid) y Staff Lead de [Tech Riders](https://www.techriders.es/). Más de 10 años entre código, arquitectura y nube, sobre todo con .NET y Azure. Diseño soluciones que operan en producción, mentorizo mientras entrego y hablo de decisiones técnicas que funcionan: menos perseguir lo último, más entender el problema.
 
 ---
 ## 💼 Avanade
@@ -34,6 +28,34 @@ Diseño arquitectura de soluciones complejas, mentorizo perfiles jóvenes, impar
 
 ---
 
+## ⭐ Proyecto estrella: MCP Efficiency Engine (MCPEE)
+
+**[mcp-efficiency-engine](https://github.com/Sertxito/mcp-efficiency-engine)** — arnés de ingeniería *local-first* que convierte cualquier repositorio en un espacio de trabajo gobernado para GitHub Copilot. Con un solo comando Copilot recibe un equipo de especialistas, instrucciones del proyecto, conocimiento local de tu código y documentos, aprobaciones para las acciones de riesgo, validación automática tras cada cambio y un rastro de auditoría completo.
+
+```sh
+npm install --global mcp-efficiency-engine
+mcpee init --project <ruta>
+```
+
+**Cómo funciona el arnés**
+
+| Capa | Qué hace |
+|---|---|
+| Contexto | Indexa código y documentos en local, construye grafos y envía a Copilot solo extractos citados. |
+| Especialistas | Instala agentes, skills, workflows e instrucciones elegidos según tu proyecto. |
+| Especificaciones | Extrae propuestas de comportamiento de tu código, o parte de tus requisitos; las aprobadas viven en `specs/approved/`. |
+| Permisos | Las herramientas de solo lectura corren libres; transferir contexto y cualquier cambio de estado requieren aprobación (broker MCP + hook `preToolUse`). |
+| Verificación | Tras un cambio sincroniza el conocimiento, ejecuta tu validación y solo entonces refresca la documentación. |
+| Evidencia | Trazas, aprobaciones y resultados guardados en local, con vistas JSON, OTLP y HTML. |
+
+**Greenfield y brownfield, sin elegir modo.** `mcpee init` inspecciona el proyecto y decide solo:
+
+- **Brownfield** (ya hay código): agentes y guías para tu stack detectado, propuestas de especificación extraídas de tu código y tests, y workflows de validación construidos con tus checks existentes.
+- **Greenfield** (carpeta vacía): equipo generalista (orquestador, producto, arquitectura, QA, seguridad, IA y documentación); las especificaciones nacen de los requisitos que escribas, y al reejecutar `init` con código detecta el stack y genera la validación.
+
+Todo queda en tu proyecto y nunca sobrescribe archivos tuyos. Es el motor sobre el que nacieron los boosts, aunque cada boost funciona por su cuenta.
+
+---
 ## 🚀 Boosts: agentes, skills e instrucciones listos para instalar
 
 Cada **boost** es una pieza **100 % independiente**: lleva sus propios agentes, skills, prompts e instrucciones para GitHub Copilot / VS Code y se **autoinstala** en cualquier proyecto con un único comando, sin MCP ni dependencias externas.
