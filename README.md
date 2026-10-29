@@ -43,19 +43,20 @@ npx boost-backend      # o cualquier otro boost de la tabla
 | Boost | Qué resuelve | Instalar |
 |---|---|---|
 | [boost_backend](https://github.com/Sertxito/boost_backend) | Patrones de backend moderno: APIs, storage, caching | `npx boost-backend` |
-| [boost_frontend](https://github.com/Sertxito/boost_frontend) | Frontend con criterio: accesibilidad, rendimiento, estado | `npx github:Sertxito/boost_frontend` |
+| [boost_frontend](https://github.com/Sertxito/boost_frontend) | Frontend con criterio: accesibilidad, rendimiento, estado | `npx boost-frontend` |
 | [boost_design-UX-with-Intent](https://github.com/Sertxito/boost_design-UX-with-Intent) | Diseño UX con intención: componentes, tokens, accesibilidad | `npx boost-uxdesign` |
 | [boost_cloud](https://github.com/Sertxito/boost_cloud) | Decisiones de cloud y CI/CD | `npx boost-cloud` |
 | [boost_DBA](https://github.com/Sertxito/boost_DBA) | Bases de datos y DBA: modelado, rendimiento, operación | `npx boost-dba` |
-| [boost_RAG-Azure](https://github.com/Sertxito/boost_RAG-Azure) | RAG production-ready en Azure: vector search, chunking, AI Search | `npx github:Sertxito/boost_RAG-Azure` |
-| [boost_azure-iot-edge](https://github.com/Sertxito/boost_azure-iot-edge) | IoT edge-to-cloud en Azure | `npx github:Sertxito/boost_azure-iot-edge` |
+| [boost_RAG-Azure](https://github.com/Sertxito/boost_RAG-Azure) | RAG production-ready en Azure: vector search, chunking, AI Search | `npx boost-rag-azure` |
+| [boost_azure-iot-edge](https://github.com/Sertxito/boost_azure-iot-edge) | IoT edge-to-cloud en Azure | `npx boost-iot-edge` |
 | boost_architect-forensics-expert *(privado)* | Auditoría de arquitecturas: deuda, antipatrones, riesgos | — |
 
-### Otros proyectos
+### Demos y otros proyectos
+
+- **[netcoreconf2026](https://github.com/Sertxito/netcoreconf2026)** — Demo de *Tu API ya no la van a consumir personas*: la misma API consumida por REST, por Copilot en VS Code y por herramientas MCP, con Aspire mostrando las peticiones reales (.NET 10).
 
 - **[mcp-efficiency-engine](https://github.com/Sertxito/mcp-efficiency-engine)** — Plataforma de automatización de decisiones técnicas basada en MCP. Los boosts no dependen de ella.
 - **[spec-kit-extension-rag-azure-builder](https://github.com/Sertxito/spec-kit-extension-rag-azure-builder)** — Spec Kit reutilizable para arrancar proyectos RAG.
-- **[sensor-sim](https://github.com/Sertxito/sensor-sim)** — Simulador de sensores para pruebas IoT.
 
 ---
 ## 🎤 Experiencia Real en Charlas
