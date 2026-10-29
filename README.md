@@ -2,7 +2,7 @@
 
 **Tecnología con propósito. Personas en el centro.**
 
-Más de 10 años entre código, arquitectura y nube, sobre todo con .NET y Azure. Diseño soluciones que operan en producción, mentorizo mientras entrego y hablo de decisiones técnicas que funcionan: menos perseguir lo último, más entender el problema.
+Más de 10 años entre código, arquitectura y nube, sobre todo con .NET y Azure. Diseño soluciones que operan en producción, mentorizo mientras entrego y conecto la inteligencia artificial con el negocio de forma estratégica, sin perder el foco en la estabilidad. Hablo de decisiones técnicas que funcionan: menos perseguir lo último, más entender el problema
 
 ---
 ## 💼 Avanade
