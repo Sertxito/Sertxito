@@ -23,7 +23,6 @@ Diseño arquitectura de soluciones complejas, mentorizo perfiles jóvenes, impar
 - 🏫 Mentorizo jóvenes en FP, universidades y Masters.
 - 🎤 Sesiones técnicas y Power Skill en eventos.
 - 📺 YouTube [@TechRidersMedia](https://www.youtube.com/@TechRidersMedia)
-- 🎙️ Podcast TechRiders
 - 💻 GitHub [TechRiders-Community](https://github.com/TechRiders-Community)
 
 ---
@@ -87,7 +86,7 @@ npx boost-backend      # o cualquier otro boost de la tabla
 - **[spec-kit-extension-rag-azure-builder](https://github.com/Sertxito/spec-kit-extension-rag-azure-builder)** — Spec Kit reutilizable para arrancar proyectos RAG.
 
 ---
-## 🎤 Experiencia Real en Charlas
+## 🎤 Experiencia Real en Sesiones
 
 Hablo de lo que he visto fallar y funcionar. Arquitecturas que escalaron, decisiones que metí la pata, cómo mentorizar sin frenar.
 
