@@ -7,7 +7,7 @@ Más de 10 años entre código, arquitectura y nube, sobre todo con .NET y Azure
 ---
 ## 💼 Avanade
 
-**Consultant Full-Stack | People Lead Ambassador | Early Career Lead | Trainer Counselor**
+**Consultant Full-Stack | People Lead Ambassador | Early Career Lead | Training Counselor**
 
 Diseño arquitectura de soluciones complejas, mentorizo perfiles jóvenes, imparto sesiones de aprendizaje técnico y ayudo a equipos a tomar decisiones que escalen.
 
