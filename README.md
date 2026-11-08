@@ -23,7 +23,7 @@ Diseño arquitectura de soluciones complejas, mentorizo perfiles jóvenes, impar
 - 🏫 Mentorizo jóvenes en FP, universidades y Masters.
 - 🎤 Sesiones técnicas y Power Skill en eventos.
 - 📺 YouTube [@TechRidersMedia](https://www.youtube.com/@TechRidersMedia)
-- 💻 GitHub [TechRiders-Community](https://github.com/TechRiders-Community)
+- 💻 GitHub [TechRidersCommunity](https://github.com/TechRidersCommunity)
 
 ---
 
