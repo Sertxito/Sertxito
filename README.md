@@ -77,7 +77,7 @@ npx boost-backend      # o cualquier otro boost de la tabla
 | [boost_DBA](https://github.com/Sertxito/boost_DBA) | Bases de datos y DBA: modelado, rendimiento, operación | `npx boost-dba` |
 | [boost_RAG-Azure](https://github.com/Sertxito/boost_RAG-Azure) | RAG production-ready en Azure: vector search, chunking, AI Search | `npx boost-rag-azure` |
 | [boost_azure-iot-edge](https://github.com/Sertxito/boost_azure-iot-edge) | IoT edge-to-cloud en Azure | `npx boost-iot-edge` |
-| boost_architect-forensics-expert *(privado)* | Auditoría de arquitecturas: deuda, antipatrones, riesgos | — |
+| [boost_architect-forensics-expert](https://github.com/Sertxito/boost_architect-forensics-expert) | Auditoría forense de arquitectura, sistemas legacy y modernización basada en evidencias | `npx boost-architect-forensics-expert` |
 
 ### Demos y otros proyectos
 
