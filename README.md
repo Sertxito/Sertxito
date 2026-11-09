@@ -81,6 +81,8 @@ npx boost-backend      # o cualquier otro boost de la tabla
 
 ### Demos y otros proyectos
 
+- **[microsoft-live](https://github.com/Sertxito/microsoft-live)** — Tres demos de búsqueda de tutoriales con .NET, Azure AI Search, API REST y MCP, incluida la prueba de integración con Copilot Studio.
+
 - **[netcoreconf2026](https://github.com/Sertxito/netcoreconf2026)** — Demo de *Tu API ya no la van a consumir personas*: la misma API consumida por REST, por Copilot en VS Code y por herramientas MCP, con Aspire mostrando las peticiones reales (.NET 10).
 
 - **[spec-kit-extension-rag-azure-builder](https://github.com/Sertxito/spec-kit-extension-rag-azure-builder)** — Spec Kit reutilizable para arrancar proyectos RAG.
